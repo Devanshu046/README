@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parmardevanshu07@gmail.com**
 
-- 📄 My Socials [devanshu046.github.io/Linktree/](devanshu046.github.io/Linktree/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
