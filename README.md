@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu046&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu046" /> </p>
 
-- 🔭 I’m currently working on **Event Management System**
+- 🔭 I’m currently Leraning **MERN Stack**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **parmardevanshu07@gmail.com**
 
